@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73d803f7db7455219e2df7f0469ed48b",
+    "revision": "2128e2018ef010bcfd02ab70e884cbcc",
     "url": "/mountaineer_climber/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mountaineer_climber/static/css/2.f005c5ff.chunk.css"
   },
   {
-    "revision": "e90ce6aaec93f3d20969",
+    "revision": "ed06174686b8c3778f60",
     "url": "/mountaineer_climber/static/css/main.0827387f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mountaineer_climber/static/js/2.fe2bb1e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e90ce6aaec93f3d20969",
-    "url": "/mountaineer_climber/static/js/main.4bda0df0.chunk.js"
+    "revision": "ed06174686b8c3778f60",
+    "url": "/mountaineer_climber/static/js/main.2ae97e5f.chunk.js"
   },
   {
     "revision": "45842399bc7dda3f28a6",
